@@ -133,19 +133,44 @@ A Python voice assistant that listens to spoken input and responds in real time 
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,java,py,php&theme=dark" alt="Languages"/>
 
+<br/><br/>
+
+**Web Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,php&theme=dark" alt="Web Development"/>
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=0a0a0a" alt="phpMyAdmin"/>
+
+<br/><br/>
+
 **AI & API Integration**
+<br/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a" alt="OpenAI API"/>
 <img src="https://img.shields.io/badge/LLM_Integration-DC2626?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0a0a0a" alt="LLM Integration"/>
 <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=EF4444&labelColor=0a0a0a" alt="REST APIs"/>
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/>
 
-**Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,php,nodejs&theme=dark" alt="Web Development"/>
+<br/><br/>
 
-**Databases**
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=0a0a0a" alt="phpMyAdmin"/>
+**Tools & IDEs**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="Tools"/>
+
+<br/><br/>
+
+**Core CS Fundamentals**
+<br/>
+<img src="https://img.shields.io/badge/OOP-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=DC2626" alt="OOP"/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=DC2626" alt="DSA"/>
+<img src="https://img.shields.io/badge/DBMS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=DC2626" alt="DBMS"/>
+<img src="https://img.shields.io/badge/Operating_Systems-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=DC2626" alt="Operating Systems"/>
+
+</div>
 
 **Core CS**
 <br/>
