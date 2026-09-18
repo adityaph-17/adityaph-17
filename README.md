@@ -128,8 +128,9 @@ A Python voice assistant that listens to spoken input and responds in real time 
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=0a0a0a" alt="phpMyAdmin"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="Databases"/>
 
 **AI & API Integration**
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a" alt="OpenAI API"/>
