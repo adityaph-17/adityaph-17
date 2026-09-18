@@ -157,7 +157,6 @@ Handles speech input/output for natural conversation flow.
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="Tools" />
 <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logoColor=white" alt="Antigravity" />
-<hr/>
 
 </div>
 
