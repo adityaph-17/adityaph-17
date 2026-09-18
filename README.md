@@ -31,7 +31,8 @@ I build web applications with **PHP, MySQL, Python, HTML & CSS** — with hands-
 - 🛠️ **Strong With:** Role-based auth systems, REST APIs, relational DB design
 - 🌱 **Currently Sharpening:** C++, Data Structures & Algorithms, Software Engineering
 - 🤝 **Open to Collaboration:** Web development, backend systems, and Python projects
-- 📍 **Based In:** Parbhani, Maharashtra, India
+- 📍 **Current In:** Pune, Maharashtra, India
+- 📍 **Permanent In:** Parbhani, Maharashtra, India
 
 > *Strong analytical mindset, a fast learner, and comfortable picking up new frameworks independently.*
 
@@ -139,6 +140,11 @@ A Python voice assistant that listens to spoken input and responds in real time 
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="Tools"/>
+
+## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adityaph-17&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+</div>
 
 </div>
 
