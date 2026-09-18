@@ -53,37 +53,32 @@ I build web applications with **PHP, MySQL, Python, HTML & CSS** — with hands-
 
 <br/>
 
-## 🔴 Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%" border="0">
 <tr>
 <td width="50%" valign="top" style="padding:14px;">
 
 ### 🏥 Hospital Appointment Booking & Management System
-**PHP · MySQL · HTML/CSS**
+**PHP · MySQL · HTML · CSS**
 
-A role-based system with three independent portals — **Patient**, **Doctor**, and **Admin** — each with its own authentication and permissions.
+Role-based system with Patient, Doctor, and Admin portals.
+Handles specialty search, slot booking, status tracking, and cancellations.
+Admin panel adds CRUD, reports, and stats on a relational MySQL schema.
 
-- Doctor search by specialty, slot-based booking, status tracking & cancellations
-- Real-time doctor dashboard to approve/update appointments
-- Admin panel with statistics, date-range reports, and full CRUD management
-- Clean relational MySQL schema across patients, doctors, appointments & admin
-
-<a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/Source-💻_View_Repo-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repo"/></a>
+<a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
 
 </td>
 <td width="50%" valign="top" style="padding:14px;">
 
-### 📋 Grievance Redressal Portal
-**PHP · MySQL** *(Institute Project)*
+### 📋 Online Grievance Redressal Portal
+**PHP · MySQL · HTML · CSS**
 
-A full-stack complaint management portal letting students submit, track, and follow up on grievances through a secure, session-based login.
+Complaint management system for students to submit and track grievances.
+Admin dashboard handles review, response, and status updates.
+Built on a database-driven workflow with full complaint history.
 
-- Admin dashboard to review, respond to, and resolve grievances
-- Real-time status updates visible to students
-- MySQL schema for users, complaints & status history
-
-<a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/Source-💻_View_Repo-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repo"/></a>
+<a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
 
 </td>
 </tr>
@@ -91,12 +86,13 @@ A full-stack complaint management portal letting students submit, track, and fol
 <td width="50%" valign="top" style="padding:14px;">
 
 ### 🔐 Password Strength Checker
-**PHP · Deployed Web App**
+**PHP · HTML · CSS · JavaScript**
 
-A real-time password strength validator with a responsive, mobile-friendly UI — built, deployed, and hosted live end to end.
+Real-time password strength validator with instant feedback.
+Checks length, casing, numbers, and special characters.
+Responsive UI, no passwords stored.
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Live-🚀_Visit_App-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo"/></a>
-<a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/Source-💻_View_Repo-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repo"/></a>
+<a href="https://github.com/adityaph-17/pass-strength" target="_blank"><img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
 
 </td>
 <td width="50%" valign="top" style="padding:14px;">
@@ -104,7 +100,8 @@ A real-time password strength validator with a responsive, mobile-friendly UI �
 ### 🎙️ AI Voice Assistant
 **Python · Real-Time API Integration**
 
-A Python voice assistant that listens to spoken input and responds in real time using an external API, with full speech input/output handling for natural conversation.
+Voice assistant that listens and responds in real time via an external API.
+Handles speech input/output for natural conversation flow.
 
 <sub><i>Local project — not yet published to GitHub</i></sub>
 
@@ -180,48 +177,6 @@ A Python voice assistant that listens to spoken input and responds in real time 
 </td>
 </tr>
 </table>
-
-## 📈 My Development Journey
-
-```text
-
-Programming Fundamentals
-
-        ↓
-
-       OOP
-
-        ↓
-
-     C++ / Java
-
-        ↓
-
-      DSA
-
-        ↓
-
- Problem Solving
-
-        ↓
-
- Backend Development
-
-        ↓
-
- APIs + Databases
-
-        ↓
-
- Testing + Debugging
-
-        ↓
-
- Finished Real-World Projects
-
-        ↓
-
- Internship / Software Development
 
 <br/>
 
