@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=200&section=header&text=Aditya%20Halne&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Web%20%26%20Backend%20Developer&descAlignY=55&descSize=17" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=200&section=header&text=Aditya%20Halne&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+there%2C+I'm+Aditya+Halne+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%8E%93;Web+%26+Backend+Developer+%F0%9F%92%BB;PHP+%7C+MySQL+%7C+Python+%7C+C%2B%2B+%E2%9A%A1;Building+Practical+Database-Driven+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+there%2C+I'm+Aditya+Halne+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%8E%93;Web+%26+Backend+Developer+%F0%9F%92%BB;PHP+%7C+MySQL+%7C+Python+%7C+C%2B%2B+%E2%9A%A1;Building+role-based+systems+that+work" alt="Typing SVG" />
 
 <br/>
 
@@ -10,7 +10,6 @@
 <a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub"/></a>
 <a href="mailto:adityahalne17@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email"/></a>
 <a href="tel:+919028409522"><img src="https://img.shields.io/badge/Call-+91_9028409522-111111?style=for-the-badge&logo=whatsapp&logoColor=EF4444&labelColor=0a0a0a" alt="Phone"/></a>
-<a href="https://github.com/adityaph-17/adityaph-17/blob/main/assets/Aditya_Halne_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-📄_View_PDF-DC2626?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0a0a0a" alt="Resume"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=adityaph-17&label=PROFILE+VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views"/>
 
@@ -24,16 +23,16 @@
 <tr>
 <td width="60%" valign="top">
 
-Hey! I'm **Aditya Halne**, a **Computer Engineering student** interested in building practical software and web applications.
+Hey! I'm **Aditya Halne**, a **Computer Engineering student** based in Parbhani, Maharashtra, India.
 
-I work mainly with **PHP, MySQL, Python, HTML, CSS, and C++** — with hands-on experience building database-driven applications with authentication, role-based access, dashboards, and real-world workflows. Right now I'm sharpening my **C++, DSA, and backend/software engineering** fundamentals.
+I build web applications with **PHP, MySQL, Python, HTML & CSS** — with hands-on experience in role-based systems, authentication, database-driven applications, and end-to-end deployment. Right now I'm sharpening my **C++, DSA, and backend/software engineering** fundamentals.
 
 - 🎓 **Currently Pursuing:** B.Tech in Computer Engineering, SPPU — MMCOE, Pune *(Expected 2029)*
 - 🛠️ **Strong With:** Role-based auth systems, REST APIs, relational DB design
 - 🌱 **Currently Sharpening:** C++, Data Structures & Algorithms, Software Engineering
 - 🤝 **Open to Collaboration:** Web development, backend systems, and Python projects
-- 📍 **Current:** Pune, Maharashtra, India
-- 🏠 **Permanent:** Parbhani, Maharashtra, India
+- 📍 **Current In:** Pune, Maharashtra, India
+- 📍 **Permanent In:** Parbhani, Maharashtra, India
 
 > *Strong analytical mindset, a fast learner, and comfortable picking up new frameworks independently.*
 
@@ -54,8 +53,6 @@ I work mainly with **PHP, MySQL, Python, HTML, CSS, and C++** — with hands-on 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:DC2626&height=3&width=100%" width="100%"/>
-
 ## 🔴 Featured Projects
 
 <table width="100%" border="0">
@@ -65,9 +62,12 @@ I work mainly with **PHP, MySQL, Python, HTML, CSS, and C++** — with hands-on 
 ### 🏥 Hospital Appointment Booking & Management System
 **PHP · MySQL · HTML/CSS**
 
-Role-based system with Patient, Doctor, and Admin portals.
-Handles specialty search, slot booking, status tracking, and cancellations.
-Admin panel adds CRUD, reports, and stats on a relational MySQL schema.
+A role-based system with three independent portals — **Patient**, **Doctor**, and **Admin** — each with its own authentication and permissions.
+
+- Doctor search by specialty, slot-based booking, status tracking & cancellations
+- Real-time doctor dashboard to approve/update appointments
+- Admin panel with statistics, date-range reports, and full CRUD management
+- Clean relational MySQL schema across patients, doctors, appointments & admin
 
 <a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/Source-💻_View_Repo-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repo"/></a>
 
@@ -77,9 +77,11 @@ Admin panel adds CRUD, reports, and stats on a relational MySQL schema.
 ### 📋 Grievance Redressal Portal
 **PHP · MySQL** *(Institute Project)*
 
-Complaint management system for students to submit and track grievances.
-Admin dashboard handles review, response, and status updates.
-Built on a database-driven workflow with full complaint history.
+A full-stack complaint management portal letting students submit, track, and follow up on grievances through a secure, session-based login.
+
+- Admin dashboard to review, respond to, and resolve grievances
+- Real-time status updates visible to students
+- MySQL schema for users, complaints & status history
 
 <a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/Source-💻_View_Repo-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repo"/></a>
 
@@ -91,11 +93,10 @@ Built on a database-driven workflow with full complaint history.
 ### 🔐 Password Strength Checker
 **PHP · Deployed Web App**
 
-Real-time password strength validator with instant feedback.
-Checks length, casing, numbers, and special characters.
-Responsive UI, deployed and hosted live end to end.
+A real-time password strength validator with a responsive, mobile-friendly UI — built, deployed, and hosted live end to end.
 
-<a href="https://github.com/adityaph-17/pass-strength" target="_blank"><img src="https://img.shields.io/badge/Source-💻_View_Repo-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repo"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Live-🚀_Visit_App-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo"/></a>
+<a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/Source-💻_View_Repo-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repo"/></a>
 
 </td>
 <td width="50%" valign="top" style="padding:14px;">
@@ -103,8 +104,7 @@ Responsive UI, deployed and hosted live end to end.
 ### 🎙️ AI Voice Assistant
 **Python · Real-Time API Integration**
 
-Voice assistant that listens and responds in real time via an external API.
-Handles speech input/output for natural conversation flow.
+A Python voice assistant that listens to spoken input and responds in real time using an external API, with full speech input/output handling for natural conversation.
 
 <sub><i>Local project — not yet published to GitHub</i></sub>
 
@@ -114,8 +114,6 @@ Handles speech input/output for natural conversation flow.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:DC2626&height=3&width=100%" width="100%"/>
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -124,67 +122,106 @@ Handles speech input/output for natural conversation flow.
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,java,py,php&theme=dark" alt="Languages"/>
 
-<br/><br/>
-
 **Web Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,php&theme=dark" alt="Web Development"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,php,nodejs&theme=dark" alt="Web Development"/>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=0a0a0a" alt="phpMyAdmin"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="Databases"/>
 
 **AI & API Integration**
 <br/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/LLM_Integration-DC2626?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0a0a0a" alt="LLM Integration"/>
 <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=EF4444&labelColor=0a0a0a" alt="REST APIs"/>
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/>
-<img src="https://img.shields.io/badge/Real--Time_API_Integration-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Real-Time API Integration"/>
-
-<br/><br/>
-
-**Tools & IDEs**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="Tools"/>
-
-<br/><br/>
 
 **Core CS**
 <br/>
-<img src="https://img.shields.io/badge/OOP-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=DC2626" alt="OOP"/>
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=DC2626" alt="DSA"/>
-<img src="https://img.shields.io/badge/DBMS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=DC2626" alt="DBMS"/>
-<img src="https://img.shields.io/badge/Operating_Systems-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=DC2626" alt="Operating Systems"/>
+![OOP](https://img.shields.io/badge/OOP-0a0a0a?style=for-the-badge&logoColor=EF4444)
+![Data Structures](https://img.shields.io/badge/Data_Structures-0a0a0a?style=for-the-badge&logoColor=EF4444)
+![DBMS](https://img.shields.io/badge/DBMS-0a0a0a?style=for-the-badge&logoColor=EF4444)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-0a0a0a?style=for-the-badge&logoColor=EF4444)
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,antigravity&theme=dark" alt="Tools"/>
+
+## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adityaph-17&theme=dracula&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+</div>
 
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:DC2626&height=3&width=100%" width="100%"/>
 
 ## 🎓 Education
 
-| Degree | Institution | Status |
-|---|---|---|
-| 🎓 B.Tech — Computer Engineering | SPPU — MMCOE, Pune | Pursuing · Expected 2029 |
-| 💻 Diploma — Computer Engineering | MSBTE | 2023 – 2026 |
-| 📘 SSC (10th) | MSBSHSE | Completed March 2023 |
+<table width="100%" border="0">
+<tr>
+<td align="center" style="padding:14px;">
+<h4>B.Tech, Computer Engineering</h4>
+<sub>SPPU — MMCOE, Pune</sub><br/>
+<sub><b>Pursuing · Expected 2029</b></sub>
+</td>
+<td align="center" style="padding:14px;">
+<h4>Diploma, Computer Engineering</h4>
+<sub>MSBTE</sub><br/>
+<sub><b>2023 – 2026</b></sub>
+</td>
+<td align="center" style="padding:14px;">
+<h4>SSC (10th)</h4>
+<sub>MSBSHSE</sub><br/>
+<sub><b>Completed March 2023</b></sub>
+</td>
+</tr>
+</table>
 
-<br/>
+## 📈 My Development Journey
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:DC2626&height=3&width=100%" width="100%"/>
+```text
 
-## 🏆 GitHub Trophies
+Programming Fundamentals
 
-<div align="center">
+        ↓
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaph-17&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+       OOP
 
-</div>
+        ↓
+
+     C++ / Java
+
+        ↓
+
+      DSA
+
+        ↓
+
+ Problem Solving
+
+        ↓
+
+ Backend Development
+
+        ↓
+
+ APIs + Databases
+
+        ↓
+
+ Testing + Debugging
+
+        ↓
+
+ Finished Real-World Projects
+
+        ↓
+
+ Internship / Software Development
 
 <br/>
 
@@ -195,15 +232,11 @@ Handles speech input/output for natural conversation flow.
 <img src="https://github-readme-stats-fast.vercel.app/api?username=adityaph-17&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adityaph-17&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="35%" alt="Top Languages"/>
 
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaph-17&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="70%" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:DC2626&height=3&width=100%" width="100%"/>
 
 ## ⚡ Contribution Journey
 
@@ -215,13 +248,11 @@ Handles speech input/output for natural conversation flow.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:DC2626&height=3&width=100%" width="100%"/>
-
 ## 📬 Let's Connect & Collaborate
 
 <div align="center">
 
-*Whether it's a web dev project, a backend challenge, API integration, or just talking code — my inbox is always open!*
+*Whether it's a web dev project, a backend challenge, or just talking code — my inbox is always open!*
 
 <table border="0">
 <tr>
