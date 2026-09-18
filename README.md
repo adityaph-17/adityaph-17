@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+there%2C+I'm+Aditya+Halne+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%8E%93;Web+%26+Backend+Developer+%F0%9F%92%BB;PHP+%7C+MySQL+%7C+Python+%7C+C%2B%2B+%E2%9A%A1;Building+role-based+systems+that+work" alt="Typing SVG" />
 
 <br/>
+<br/>
 
 <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/></a>
 <a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub"/></a>
