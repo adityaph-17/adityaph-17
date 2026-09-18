@@ -133,10 +133,17 @@ A Python voice assistant that listens to spoken input and responds in real time 
 <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="Databases"/>
 
 **AI & API Integration**
+<br/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a" alt="OpenAI API"/>
 <img src="https://img.shields.io/badge/LLM_Integration-DC2626?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0a0a0a" alt="LLM Integration"/>
 <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=EF4444&labelColor=0a0a0a" alt="REST APIs"/>
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/>
+<img src="https://shields.io" alt="Grok API"/>
+<img src="https://shields.io" alt="Gemini API"/>
+<img src="https://shields.io" alt="Anthropic API"/>
+<img src="https://shields.io" alt="DeepSeek API"/>
+<img src="https://shields.io" alt="Meta API"/>
+
 
 **Core CS**
 <br/>
