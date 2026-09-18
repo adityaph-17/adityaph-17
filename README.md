@@ -45,9 +45,9 @@ I build web applications with **PHP, MySQL, Python, HTML & CSS** — with hands-
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-🟢_Building_%26_Learning-111111?style=flat-square)
-![Degree](https://img.shields.io/badge/Degree-B.Tech_Computer_Engineering-DC2626?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Web_%26_Backend_Dev-111111?style=flat-square)
+![Status](https://img.shields.io/badge/Status-🟢_Building_%26_Learning-111111?style=flat-square)<br/>
+![Degree](https://img.shields.io/badge/Degree-B.Tech_Computer_Engineering-DC2626?style=flat-square)<br/>
+![Focus](https://img.shields.io/badge/Focus-Web_%26_Backend_Dev-111111?style=flat-square)<br/>
 
 </div>
 
@@ -66,7 +66,7 @@ Role-based system with Patient, Doctor, and Admin portals.
 Handles specialty search, slot booking, status tracking, and cancellations.
 Admin panel adds CRUD, reports, and stats on a relational MySQL schema.
 
-<a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+<a href="https://github.com/adityaph-17/hospital-appointment-system" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
 
 </td>
 <td width="50%" valign="top" style="padding:14px;">
@@ -78,7 +78,7 @@ Complaint management system for students to submit and track grievances.
 Admin dashboard handles review, response, and status updates.
 Built on a database-driven workflow with full complaint history.
 
-<a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+<a href="https://github.com/adityaph-17/grievance-redressal-portal" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
 
 </td>
 </tr>
@@ -92,6 +92,7 @@ Real-time password strength validator with instant feedback.
 Checks length, casing, numbers, and special characters.
 Responsive UI, no passwords stored.
 
+<a href="https://pass-strength.infinityfreeapp.com/?i=1" target="_blank"><img src="https://img.shields.io/badge/Live-🚀_Visit_App-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo"/></a>
 <a href="https://github.com/adityaph-17/pass-strength" target="_blank"><img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
 
 </td>
@@ -115,46 +116,50 @@ Handles speech input/output for natural conversation flow.
 
 <div align="center">
 
-**Languages**
+**💻 Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,java,py,php&theme=dark" alt="Languages"/>
+<hr/>
 
-**Web Development**
+**🌐 Web Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,php,nodejs&theme=dark" alt="Web Development"/>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark" alt="Web Development"/>
+<hr/>
 
-**Databases**
+**🗄️ Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Databases"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=0a0a0a" alt="phpMyAdmin"/>
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="Databases"/>
+<hr/>
 
-**AI & API Integration**
+**🔌 Backend, APIs & Messaging services**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,postman&theme=dark" alt="Backend & APIs"/>
+<img src="https://img.shields.io/badge/PHPMailer-111111?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHPMailer"/>
+<img src="https://img.shields.io/badge/REST_APIs-DC2626?style=for-the-badge" alt="REST APIs"/>
+<hr/>
+
+**🤖 AI Integration**
 <br/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a" alt="OpenAI API"/>
 <img src="https://img.shields.io/badge/LLM_Integration-DC2626?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0a0a0a" alt="LLM Integration"/>
-<img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=EF4444&labelColor=0a0a0a" alt="REST APIs"/>
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/>
+<hr/>
 
-**Core CS**
+**🧠 Core CS**
 <br/>
 ![OOP](https://img.shields.io/badge/OOP-0a0a0a?style=for-the-badge&logoColor=EF4444)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-0a0a0a?style=for-the-badge&logoColor=EF4444)
 ![DBMS](https://img.shields.io/badge/DBMS-0a0a0a?style=for-the-badge&logoColor=EF4444)
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-0a0a0a?style=for-the-badge&logoColor=EF4444)
+<hr/>
 
-**Tools**
+**🧰 Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,antigravity&theme=dark" alt="Tools"/>
-
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityaph-17&theme=dracula&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="Tools" />
+<img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logoColor=white" alt="Antigravity" />
+<hr/>
 
 </div>
-
-<br/>
 
 ## 🎓 Education
 
