@@ -23,16 +23,15 @@
 <tr>
 <td width="60%" valign="top">
 
-Hey! I'm **Aditya Halne**, a **Computer Engineering student** based in Parbhani, Maharashtra, India.
+I'm **Aditya Halne**, a **Computer Engineering student** based in Pune, Maharashtra, India.
 
-I build web applications with **PHP, MySQL, Python, HTML & CSS** — with hands-on experience in role-based systems, authentication, database-driven applications, and end-to-end deployment. Right now I'm sharpening my **C++, DSA, and backend/software engineering** fundamentals.
+I build database-driven web applications and I'm increasingly drawn to **AI/LLM API integration** — figuring out how intelligent features fit naturally into everyday backend systems. Alongside that, I'm deepening my **C++ and DSA** fundamentals to build a stronger foundation as a software engineer.
 
 - 🎓 **Currently Pursuing:** B.Tech in Computer Engineering, SPPU — MMCOE, Pune *(Expected 2029)*
 - 🛠️ **Strong With:** Role-based auth systems, REST APIs, relational DB design
 - 🌱 **Currently Sharpening:** C++, Data Structures & Algorithms, Software Engineering
 - 🤝 **Open to Collaboration:** Web development, backend systems, and Python projects
 - 📍 **Current In:** Pune, Maharashtra, India
-- 📍 **Permanent In:** Parbhani, Maharashtra, India
 
 > *Strong analytical mindset, a fast learner, and comfortable picking up new frameworks independently.*
 
