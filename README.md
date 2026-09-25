@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=200&section=header&text=Aditya%20Halne&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=200&section=header&text=Aditya%20Halne&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Exploring%20AI&descAlignY=55&descSize=18" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=130&lines=Hi+there%2C+I'm+Aditya+Halne+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%8E%93;Web+%26+Backend+Developer+%F0%9F%92%BB;PHP+%7C+MySQL+%7C+Python+%7C+C%2B%2B+%E2%9A%A1;Building+role-based+systems+that+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=130&lines=Hi+there%2C+I'm+Aditya+Halne+%F0%9F%91%8B;AI-Driven+Software+Developer+%F0%9F%92%BB;Python+%7C+C%2B%2B+%7C+PHP+%7C+MySQL+%E2%9A%A1;Crafting+AI-Powered+Applications+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/aditya-halne-17ix07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/></a>
 <a href="https://github.com/adityaph-17" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub"/></a>
 <a href="mailto:adityahalne17@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email"/></a>
 
@@ -38,7 +38,8 @@ I build web applications with **PHP, MySQL, Python, HTML & CSS** — with hands-
 
 </td>
 <td width="40%" align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="max-width:320px;border-radius:12px;" alt="Developer coding animation"/>
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="65%" style="max-width:320px;border-radius:12px;" alt="Developer coding animation"/><br/>
+  <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="65%" style="max-width:320px;border-radius:12px;" alt="Developer coding animation"/>
 </td>
 </tr>
 </table>
@@ -216,7 +217,7 @@ Handles speech input/output for natural conversation flow.
 <table border="0">
 <tr>
 <td align="center" width="220">
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/aditya-halne-17ix07" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/>
